@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lab_04_03_MonthyCCBalance/Lab_04_03_MonthyCCBalance.iml" filepath="$PROJECT_DIR$/Lab_04_03_MonthyCCBalance/Lab_04_03_MonthyCCBalance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_04_04_EvenOdd/Lab_04_04_EvenOdd.iml" filepath="$PROJECT_DIR$/Lab_04_04_EvenOdd/Lab_04_04_EvenOdd.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_04_Java_Variables.iml" filepath="$PROJECT_DIR$/Lab_04_Java_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/Lab_05.iml" filepath="$PROJECT_DIR$/Lab_05/Lab_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_05/ShipCostCalculator/ShipCostCalculator.iml" filepath="$PROJECT_DIR$/Lab_05/ShipCostCalculator/ShipCostCalculator.iml" />
     </modules>
   </component>
 </project>
